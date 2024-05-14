@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886177387138",
+    "project_id": "fir-simple-auth-7f348",
+    "storage_bucket": "fir-simple-auth-7f348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886177387138:android:7881a0a23485f41c775a9b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_simple_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMCvdAPLAkaIJH--s3Kw5bA6RgmWDBn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
